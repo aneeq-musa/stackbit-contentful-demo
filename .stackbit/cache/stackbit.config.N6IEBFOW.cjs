@@ -1,4 +1,4 @@
-function stackbit_process_cwd_shim() { return "/Users/aneeq/Documents/projects/2023/tutorial-nextjs-contentful" }
+function stackbit_process_cwd_shim() { return "/Users/aneeq/Documents/projects/2023/stackbit-demo-b1b97" }
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
@@ -45,4 +45,4 @@ var stackbit_config_default = {
 };
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {});
-//# sourceMappingURL=stackbit.config.2LMQBJCQ.cjs.map
+//# sourceMappingURL=stackbit.config.N6IEBFOW.cjs.map

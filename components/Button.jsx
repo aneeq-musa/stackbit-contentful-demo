@@ -9,7 +9,7 @@ export const Button = (props) => {
   return (
     <Link href={props.url}>
       <a
-        className={`py-3 px-8 inline-block border rounded-md transition-all duration-300 ${
+        className={`py-3 px-8 drop-shadow-2xl inline-block border rounded-md transition-all duration-300 ${
           themeClassMap[props.theme] ?? themeClassMap['default']
         }`}
       >
