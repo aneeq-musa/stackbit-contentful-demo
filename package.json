@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint",
     "contentful-export": "contentful-export --space-id $CONTENTFUL_SPACE_ID --management-token $CONTENTFUL_MANAGEMENT_TOKEN --config ./contentful/export-config.json",
-    "export": "contentful-export --space-id $CONTENTFUL_SPACE_ID --management-token $CONTENTFUL_MANAGEMENT_TOKEN --config ./contentful/export-config.json",
     "setup": "node ./contentful/import.js"
   },
   "dependencies": {
